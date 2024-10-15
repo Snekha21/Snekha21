@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snekha S</h1>
 
 # 🌟 About Me:
-I'm a passionate Software Developer and AI Enthusiast with a focus on Computer Vision Deep Learning, and Machine Learning.<be>
+I'm a passionate Software Developer and AI Enthusiast with a focus on Computer Vision, Deep Learning, and Machine Learning.<be>
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/snekhasuresh21/) 
