@@ -1,4 +1,3 @@
-#Snekha S
 # 💫 About Me:
 🌟 About Me<br>I'm a passionate Software Developer and AI Enthusiast with a focus on Computer Vision Deep Learning, and Machine Learning.<br><br>💻 Current Work:<br><br>Building a game tailored for dyslexic patients focusing on improving phonetics, spelling, and sound recognition through interactive rounds.<br><br>📈 Skills:<br><br>Languages: Python, Java, C<br>Frameworks: TensorFlow, Keras<br>Data Science: Pandas, Scikit-learn, Matplotlib, Numpy<br>APIs: REST, FastAPIs<br>Databases: MySQL, Postgres, MongoDB<br>Tools: Docker, Streamlit, Elasticsearch<br><br><br>🌐 Check out my repositories!<br><br>
 
