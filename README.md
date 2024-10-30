@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Snekha S</h1>
+<h1 align="center">Hi 👋, I'm Snekha </h1>
 
 # 🌟 About Me:
 I'm a passionate Software Developer and AI Enthusiast with a focus on Computer Vision, Deep Learning, and Machine Learning.<be>
